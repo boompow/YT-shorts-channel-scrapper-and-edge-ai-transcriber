@@ -1,0 +1,7 @@
+.env
+.venv
+.vscode
+__pycache__
+transcripts.txt
+shorts.json
+downloads/
